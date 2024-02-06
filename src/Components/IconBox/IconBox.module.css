@@ -1,0 +1,11 @@
+.box{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.title{
+    font-size: 12px;
+    color: #2B2727;
+    font-weight: bold;
+}

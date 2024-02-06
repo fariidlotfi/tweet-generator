@@ -1,0 +1,18 @@
+.input {
+  padding: 10px 30px;
+  outline: none;
+  border: 1px solid #8b8b8b;
+  border-radius: 4px;
+}
+
+.input:focus {
+  border: 1px solid blue;
+}
+
+.displayNone {
+  display: none;
+}
+
+.wFull {
+  width: 100%;
+}
